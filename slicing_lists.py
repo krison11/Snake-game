@@ -1,0 +1,6 @@
+# this is how we slice lists and tuples and in python: list[start : stop]
+# if i want get from some index to the end i leave 2nd empty: list[num: ]
+# if i want get from begining to some index leave 1st empty: list[ :num]
+# if i want get with an incremment: list[start:stop:incr]
+# if i want get every 2nd item: list[::incr]
+# if i want to reverse a list: list[::-1]
